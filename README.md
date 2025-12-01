@@ -1,12 +1,16 @@
+# University Progression Outcome Predictor  
+### : Software Development with python
+### : K.L.T. Sathsara
+
 This project implements a progression outcome prediction system based on university credit rules.  
 The program evaluates student results using Pass, Defer, and Fail credits, validates inputs, and displays outcomes including histograms.  
 It includes solutions for Part 1, Part 2, Part 3, and Part 4 of the assignment specification.
 
 ---
 
-## 🔍 **Features**
+## **Features**
 
-### ✔️ **Part 1 – Basic Progression Outcome**
+###  **Part 1 – Basic Progression Outcome**
 The user inputs:
 - **Pass Credits**
 - **Defer Credits**
@@ -23,22 +27,22 @@ It also validates:
 - Out of range input  
 - Incorrect total (must equal 120)
 
-### ✔️ **Part 2 – Histogram**
+###  **Part 2 – Histogram**
 - Displays **horizontal histogram**  
 - Displays **vertical histogram**  
 - Shows total number of outcomes
 
-### ✔️ **Part 3 – Storing Data**
+###  **Part 3 – Storing Data**
 - Uses **lists, tuples, or dictionaries** to store outcomes  
 - Displays outcomes using stored data
 
-### ✔️ **Part 4 – Text File Output**
+###  **Part 4 – Text File Output**
 - Saves progression outcomes to a **text file**
 - Reads back from the text file and displays contents
 
 ---
 
-## 📊 **Test Plan Summary**
+##  **Test Plan Summary**
 
 The project was tested with 19 test cases:
 -------------------------------------------------------------------------------
@@ -50,7 +54,7 @@ The project was tested with 19 test cases:
 | 17      | Vertical histogram             | Correct format         | ✔️ Pass |
 | 18      | Data storage (list/tuple/dict) | Working                | ✔️ Pass |
 | 19      | Text file reading/writing      | Working                | ✔️ Pass |
-===============================================================================
+
 All core features perform as expected.
 
 ---
