@@ -62,7 +62,7 @@ All core features perform as expected.
 
 ---
 
-## ▶️ **How to Run**
+##  **How to Run**
 
 ### **If Python**
 ```bash
