@@ -64,7 +64,7 @@ All core features perform as expected.
 
 ##  **How to Run**
 
-### **If Python**
+### **Python**
 ```bash
 python main.py
 
